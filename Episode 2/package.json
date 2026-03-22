@@ -1,0 +1,14 @@
+{
+  "name": "episode-2",
+  "version": "1.0.0",
+  "description": "Creating production ready code base by our own not with the help of create-react-app",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Viraj",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.16.4"
+  }
+}
